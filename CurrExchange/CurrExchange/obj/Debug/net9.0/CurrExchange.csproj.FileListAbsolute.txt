@@ -1,0 +1,14 @@
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\bin\Debug\net9.0\CurrExchange.exe
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\bin\Debug\net9.0\CurrExchange.deps.json
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\bin\Debug\net9.0\CurrExchange.runtimeconfig.json
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\bin\Debug\net9.0\CurrExchange.dll
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\bin\Debug\net9.0\CurrExchange.pdb
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\CurrExchange.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\CurrExchange.AssemblyInfoInputs.cache
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\CurrExchange.AssemblyInfo.cs
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\CurrExchange.csproj.CoreCompileInputs.cache
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\CurrExchange.dll
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\refint\CurrExchange.dll
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\CurrExchange.pdb
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\CurrExchange.genruntimeconfig.cache
+D:\!Technikus\Dokumentumok\TapolcsanyiDavid\Git\20250526\CurrExchange\CurrExchange\obj\Debug\net9.0\ref\CurrExchange.dll
